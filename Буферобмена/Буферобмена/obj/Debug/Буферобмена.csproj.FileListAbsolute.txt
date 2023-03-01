@@ -1,0 +1,10 @@
+C:\Users\1\source\repos\Буферобмена\Буферобмена\bin\Debug\Буферобмена.exe.config
+C:\Users\1\source\repos\Буферобмена\Буферобмена\bin\Debug\Буферобмена.exe
+C:\Users\1\source\repos\Буферобмена\Буферобмена\bin\Debug\Буферобмена.pdb
+C:\Users\1\source\repos\Буферобмена\Буферобмена\obj\Debug\Буферобмена.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\Буферобмена\Буферобмена\obj\Debug\Буферобмена.Form1.resources
+C:\Users\1\source\repos\Буферобмена\Буферобмена\obj\Debug\Буферобмена.Properties.Resources.resources
+C:\Users\1\source\repos\Буферобмена\Буферобмена\obj\Debug\Буферобмена.csproj.GenerateResource.cache
+C:\Users\1\source\repos\Буферобмена\Буферобмена\obj\Debug\Буферобмена.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Буферобмена\Буферобмена\obj\Debug\Буферобмена.exe
+C:\Users\1\source\repos\Буферобмена\Буферобмена\obj\Debug\Буферобмена.pdb
